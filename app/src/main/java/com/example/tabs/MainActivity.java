@@ -53,14 +53,3 @@ public class MainActivity extends Activity {
         });
     }
 }
-/*class direcciones{
-    String [][] mun = {
-            {"Seleccione un depto"},
-            {"Usulutan","Santa Maria", "Santa Elena", "Jiquilisco"},
-            {"El Transito", "San Jorge", "San Rafael"},
-            {"SRL","La Union","Anamoros","El Carmen"},
-            {""}
-    };
-    String[] obtenerMun(int posicion){
-        return mun[posicion];
-    }
